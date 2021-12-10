@@ -6,7 +6,7 @@
 var isStrobogrammatic = function (num) {
 
     /*
-     Aletrnatively, we can apply Map.
+     Alternatively, we can apply Map.
      
      Array 'int_rotated_180_degrees': 
      Strobogrammatic numbers: 0=>0, 1=>1, 6=>9, 8=>8, 9=>6 
